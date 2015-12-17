@@ -5,5 +5,9 @@ public class Test{
       public void createStr(){
       	System.out.println("str hello")
       }
+<<<<<<< HEAD
       private String password
+=======
+      private String name;
+>>>>>>> fz1
 }
